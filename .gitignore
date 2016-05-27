@@ -1,0 +1,6 @@
+#files
+
+#macos
+*.DS_Store
+#folder
+temp
