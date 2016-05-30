@@ -53,7 +53,7 @@ bin/rails s
 
 ```bash
 bin/rails g controller home index
-bin/rails g controller blog index 
+bin/rails g controller blogs index 
 bin/rails g controller about index
 ```
 
